@@ -1,0 +1,17 @@
+{
+  "name": "rateit",
+  "version": "1.0.15",
+  "homepage": "https://rateit.codeplex.com/",
+  "authors": [
+    "Gideon Junge"
+  ],
+  "description": "jquery rating plugin",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
